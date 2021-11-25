@@ -13,6 +13,6 @@ public class AnagramConsoleApplication {
 
 	System.out.println(anagramMaker.makeAnagram(sentence));
 		
-	} 
+    } 
 
 }
